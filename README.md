@@ -5,7 +5,8 @@ it's a learning project
 ## 🛠 Technologies Used
 - HTML5
 - CSS3
--figma
+- FIGMA
+
 
 ## 📦 How to Run the Project
 
